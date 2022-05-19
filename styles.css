@@ -5,15 +5,28 @@ h1 {
     text-align: center;
   
 }
-    
-div {
-text-align: right;
 
- }
+
+div {
+text-align: right;}
 
 #summer {
 background-color: coral;
 
 }
+
+bordered {
+    border: 5px solid rgb(170, 190, 20)
+}
+
+ol { 
+    color: cyan;
+}
+
+#first {
+background-color: burlywood;
+
+}
+
 
 
