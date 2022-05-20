@@ -1,32 +1,40 @@
 
 h1 {
-    border:  1px spx solid blue;
-    color: rgb(20, 171, 20);
-    text-align: center;
-  
-}
+    border:  1px solid blue;
+    color: rgb(0, 0, 0);
+    text-align: center;}
 
+ol {
+    border: 2px solid blue;}
+
+li {
+    margin: 10px;}
+  
+div {
+    padding: 25px;}
+
+
+li {
+        font-style: italic;
+      }
+
+
+
+
+
+<style>
+        div {
+          border: 5px solid rgb(34, 15, 202); 
+        }
+
+        img { border-radius: 50px}
+        </style>
 
 div {
-text-align: right;}
-
-#summer {
-background-color: coral;
-
-}
-
-bordered {
-    border: 5px solid rgb(170, 190, 20)
-}
+text-align: left;}
 
 ol { 
-    color: cyan;
-}
-
-#first {
-background-color: burlywood;
-
-}
+    color: rgb(3, 7, 7);}
 
 
 
